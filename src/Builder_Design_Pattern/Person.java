@@ -1,4 +1,4 @@
-package builderDesignPattern;
+package Builder_Design_Pattern;
 
 public class Person {
 
