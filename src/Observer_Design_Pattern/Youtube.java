@@ -16,6 +16,8 @@ public class Youtube {
         telusko.subscribe(s4);
         telusko.subscribe(s5);
 
+        telusko.unSubscribe(s3);
+
         s1.subscribedChannel(telusko);
         s2.subscribedChannel(telusko);
         s3.subscribedChannel(telusko);
